@@ -1,0 +1,125 @@
+.middle-container {
+    background-color: #fff;
+    margin: 150px auto;
+}
+.bottom-container {
+    background-color: rgb(117, 201, 204);
+    padding: 20px 0 20px;
+}
+.top-container {
+    padding-top: 100px;
+    background-color: rgb(236, 252, 249);
+}
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1.5em;
+}
+h1 {
+ 
+    font-family: 'Amatic SC', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+}
+h2 {
+    font-size: 2.5rem;
+}
+h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+.bottom-cloud {
+    position: absolute;
+    margin-top: 30px;
+}
+.chaika {
+    width: 80px;
+    position: relative;
+    bottom: 650px;
+    right: 100px;
+}
+.top-cloud {
+    position: relative;
+    left: 280px;
+}
+.name {
+    margin-bottom: 30px;
+}
+.mountain {
+    margin-top: 20px;
+    width: 600px;
+}
+.profile {
+    width: 30%;
+    margin: 70px auto 70px auto;
+    line-height: 1.5;
+}
+.profile-photo {
+    margin: 50px auto;
+    width: 400px;
+}
+
+hr {
+    background: none;
+    width: 6%;
+    border-style: dotted none none none;
+    border-color: #c7dbe7;
+    border-width: 10px;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.beer {
+    width:200px;
+    float: left;
+    margin-right: 30px;
+}
+.code {
+    width: 200px;
+    float: right;
+    margin-left: 30px;
+}
+h3, h2 {
+    color: rgb(71, 173, 173);
+}
+.contact-me {
+    width: 40%;
+    line-height: 2;
+    margin: 40px auto 60px;
+}
+.contact-me p {
+    margin-bottom: 80px;
+}
+.btn {
+    padding: 15px;
+    color: #fff;
+    text-decoration: none;
+    font-family: verdana;
+    box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+    margin: 50px auto 40px;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+    background-color:#408c99;
+}
+.footer-link {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+.footer-link:hover {
+    color: #eaf6f6;
+}
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
